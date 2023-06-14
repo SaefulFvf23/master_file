@@ -3,3 +3,4 @@ Bismillah Pengembangan diri
 
 
 Kumpulkan tugas tiap rabu
+Yooo Bisa yooo kita konsisten
