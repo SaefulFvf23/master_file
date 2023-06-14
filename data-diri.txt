@@ -13,3 +13,8 @@ NO : 089527403065
 Status : lajang
 
 Profile Anggota 3 :
+Nama : (isi nama sendiri)
+alamat : (isi sendiri) 
+email :  (isi sendiri)
+NO : (isi sendiri)
+Status : (isi sendiri)
