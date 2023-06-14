@@ -1,3 +1,18 @@
+Profile Anggota 1 : 
+Nama : (isi sendiri)
+alamat : (isi sendiri)
+email :  (isi sendiri)
+NO : (isi sendiri)
+Status : (isi sendiri)
+
+Profile Anggota 2 :
+Nama : Muhamad Saeful Ependi
+alamat : Kp. cisalam rt/rw 003/008 
+email :  saeful.ependi23@gmail.com
+NO : 089527403065
+Status : lajang
+
+Profile Anggota 3 :
 Nama : (isi nama sendiri)
 alamat : (isi sendiri) 
 email :  (isi sendiri)
