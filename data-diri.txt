@@ -18,3 +18,12 @@ alamat : (isi sendiri)
 email :  (isi sendiri)
 NO : (isi sendiri)
 Status : (isi sendiri)
+
+Profile Anggota 4 :
+Nama : 
+
+
+
+
+
+(Semakin Banyak Yang Join Semakin seru)
